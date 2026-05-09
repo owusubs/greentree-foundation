@@ -1,5 +1,5 @@
 const API_BASE_URL =
-  window.GREENTREE_API_BASE_URL || "https://YOUR-RENDER-SERVICE.onrender.com";
+  window.GREENTREE_API_BASE_URL || "https://greentree-foundation.onrender.com";
 const header = document.querySelector("[data-header]");
 const nav = document.querySelector("[data-nav]");
 const navToggle = document.querySelector("[data-nav-toggle]");
